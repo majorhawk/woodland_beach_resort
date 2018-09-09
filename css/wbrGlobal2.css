@@ -1,0 +1,510 @@
+/* Woodlannd Beach Resort CSS Document */
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	background-image:url(../images/wood.jpg);
+	font-family:arial;
+	font-size:12px;
+	}
+input, textarea{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+	
+h1 {
+	margin-top:10px;
+	margin-bottom:8px;
+	font-size:19px;
+	color:#7a2321;
+	}
+	
+h2 {
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size:14px;
+	color:#000000;
+	}
+	
+p {
+	margin-top:0px;
+	margin-bottom:5px;
+	}
+	
+a, a:hover {
+	text-decoration:underline;
+	color:#7a2321;
+	}
+	
+.boatRates h2 {
+	font-family:"Times New Roman", Times, serif;
+	margin-top:43px;
+	margin-bottom:15px;
+	font-size:18px;
+	font-weight:normal;
+	color:#a25a5f;
+	}
+	
+.boatRates h3 {
+	font-family:"Times New Roman", Times, serif;
+	font-size:13px;
+	margin:0px;
+	font-weight:normal;
+	color:#a25a5f;
+	}
+	
+.cabin a {
+	text-decoration:none;
+	color:#666666;
+	}
+	
+.cabin a:hover {
+	text-decoration:none;
+	color:#7a2321;
+	}
+	
+.cabinsSM {
+	font-size:11px;
+	color:#666666;
+	text-decoration:none;
+	}
+	
+.cabinsSM a {
+	color:#666666;
+	text-decoration:none;
+	}
+	
+.cabinsSM a:hover {
+	text-decoration:none;
+	color:#7a2321;
+	}
+	
+a.rateLink {
+	font-size:12px;
+	color:#666666;
+	text-decoration:none;
+	}
+	
+a:hover.rateLink{
+	text-decoration:underline;
+	}
+
+.maps{
+	text-align:center;
+	}
+
+.maps td{
+	padding-right:5px;
+	}
+	
+.maps a{
+	text-decoration:none;
+	}
+	
+.maps a:hover{
+	text-decoration:none;
+	}
+
+#mainContainer{
+	width:1154px;
+	margin:0 auto;
+	}
+	
+#containerCenter{
+	width:1154px;
+	float:left;
+	background-image:url(../images/paper.gif);
+	background-repeat:repeat-y;
+	position:relative;
+	min-height:840px;
+	height:auto !important;
+  	height:840px;
+
+	}
+	
+#bodyArea{
+	width:982px;
+	color:#333333;
+	float:left;
+	}
+	
+#logo{
+	position:absolute;
+	width:410px;
+	height:291px;
+	z-index:600;
+	}
+	
+#forSale{
+	position:absolute;
+	width:141px;
+	height:142px;
+	z-index:60;
+	margin-left:900px;
+	margin-top:-5px;
+	-ms-transform: rotate(12deg); /* IE 9 */
+    -webkit-transform: rotate(12deg); /* Chrome, Safari, Opera */
+    transform: rotate(12deg);
+	}
+	
+
+	
+#theStore{
+	position:absolute;
+	width:197px;
+	height:109px;
+	z-index:61;
+	margin-left:630px;
+	margin-top:0px;
+	}
+	
+	
+#youtube{
+	position:absolute;
+	z-index:24;
+	margin-top:195px;
+	margin-left:910px;
+	}
+	
+#maps{
+	position:absolute;
+	width:295px;
+	height:367px;
+	z-index:5;
+	margin-top:210px;
+	margin-left:60px;
+	}
+	
+#albmPhoto{
+	position:absolute;
+	width:258px;
+	height:293px;
+	z-index:5;
+	margin-top:563px;
+	margin-left:86px;
+	}
+	
+#pen{
+	position:absolute;
+	width:349px;
+	height:172px;
+	z-index:7;
+	margin-top:800px;
+	margin-left:800px;
+	}
+	
+#pen2{
+	position:absolute;
+	width:349px;
+	height:172px;
+	z-index:7;
+	margin-top:-140px;
+	margin-left:710px;
+	}
+	
+#specials{
+	position:absolute;
+	z-index:20;
+	margin-top:385px;
+	margin-left:869px;
+	}
+	
+#winter{
+	position:absolute;
+	z-index:24;
+	margin-top:205px;
+	margin-left:340px;
+	}
+	
+#twitter{
+	position:absolute;
+	z-index:8;
+	margin-top:905px;
+	margin-left:945px;
+	}
+	
+#facebook{
+	position:absolute;
+	z-index:9;
+	margin-top:880px;
+	margin-left:1013px;
+	}
+	
+#twitter2{
+	position:absolute;
+	z-index:8;
+	margin-top:-25px;
+	margin-left:860px;
+	}
+	
+#facebook2{
+	position:absolute;
+	z-index:9;
+	margin-top:-50px;
+	margin-left:930px;
+	}
+	
+#shadowLeft{
+	padding:0 0 0 55px;
+	width:31px;
+	height:712px;
+	float:left;
+	}
+	
+#shadowRight{
+	width:31px;
+	height:712px;
+	float:left;
+	}
+	
+#shadowBottom{
+	width:1154px;
+	text-align:center;
+	padding-bottom:30px;
+	}
+	
+#footer{
+	background-color:#3c4b1b;
+	width:100%;
+	margin:0 auto;
+	float:left;
+	background-image:url(../images/footer_grad.gif);
+	background-repeat:repeat-x;
+	color:#9da193;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	}
+	
+#footer a{
+	font-size:11px;
+	color:#9da193;
+	text-decoration:none;
+	}
+	
+#footer a:hover{
+	color:#9da193;
+	text-decoration:underline;
+	}
+
+	
+#photo {
+	background-image:url(../images/photo_back.jpg);
+	background-repeat:no-repeat;
+	margin-left:269px;
+	width: 676px;
+	height: 350px;
+	}
+#photo img {
+	padding:27px 0 0 26px;
+	}
+	
+#homeText {
+	margin-left:290px;
+	width: 640px;
+	line-height:160%;
+	height:350px;
+	}
+	
+.homeText h1 {
+	margin-top:10px;
+	margin-bottom:10px;
+	}
+	
+#bodyText {
+	margin-left:315px;
+	width: 615px;
+	line-height:160%;
+	}
+	
+
+/************** #Top Nav **************/
+
+span.hide{
+	display:none;
+	}
+
+#menu-container{
+	width:982px;
+	height:47px;
+	}
+	
+#menu-container ul{
+	padding:0;
+	margin:0;
+	}
+	
+#menu-container li{
+	display:inline;
+	overflow:hidden;
+	float:left;
+	padding:0;
+	margin:0;
+	}
+	
+#menu-container a{
+	height:47px;
+	display:block;
+	}
+	
+.cabins{
+	width:78px;
+	background:url(../images/btn_cabins.gif) top left no-repeat;
+	}
+
+.rates{
+	width:72px;
+	background:url(../images/btn_rates.gif) top left no-repeat;
+	}
+	
+.about{
+	width:98px;
+	background:url(../images/btn_about_us.gif) top left no-repeat;
+	}
+	
+.boats{
+	width:69px;
+	background:url(../images/btn_boats.gif) top left no-repeat;
+	}
+	
+.policies{
+	width:93px;
+	background:url(../images/btn_policies.gif) top left no-repeat;
+	}
+	
+.contact{
+	width:117px;
+	background:url(../images/btn_contact_us.gif) top left no-repeat;
+	}
+	
+.events{
+	width:97px;
+	background:url(../images/btn_retreats.gif) top left no-repeat;
+	}
+	
+#menu-container ul li a:hover{
+	background-position:0 -47px;
+	border:none;
+	}
+	
+#menu-container ul li a.active{
+	background-position:0 -47px;
+	}
+	
+.colors ul{
+	list-style-type:none;
+	padding:0px;
+	margin:10px 10px 0 0;
+	}
+
+.colors ul li{
+	margin:0px;
+	padding:0px;
+	}
+
+.colors img {
+	margin:0px 10px 0px 0px;
+	padding:0px;
+	border-color:#999999;
+	}
+
+/************** #Top Nav Drop Down **************/
+		
+#menu-container ul li ul{
+	font-family:Arial, Helvetica, sans-serif;
+	z-index:100;
+	position:absolute;
+	background-color:none;
+	border-right:solid 1px #b2b2b2;
+	border-left:solid 1px #b2b2b2;
+	border-top:solid 1px #b2b2b2;
+	left: -999em;
+	height:auto;
+	margin:0px 0 0 0;
+	padding:0;
+	height:10px;
+	}
+
+#menu-container li ul li{
+	float:left;
+	margin:0;
+	padding:0;
+	border-right:solid 1px #999999;
+	/*width:100px;
+	background-image:url(../images/drop_fill.gif);*/
+	background-repeat:repeat-x;
+	line-height:10px;
+	}
+	
+#menu-container li ul li a{
+	text-decoration:none;
+	font-size:11px;
+	color:#333333;
+	/*font-weight:bold;
+	text-transform:uppercase;*/
+	height:auto;
+	padding:2px 6px;
+	/*border-bottom:solid 1px #ccc;*/
+	border:none;
+	}
+	
+#menu-container li ul li a:hover{
+	color:#7a2321;
+	/*background-color:#fff;*/
+	border:none;
+	}
+	
+#menu-container li:hover ul, #menu-container li.sfhover ul{
+	left:auto;
+	/*min-height: 0;*/
+	}
+	
+/*=========================================*/
+#menu-container ul li ul li ul{	
+	z-index:100;
+	position:absolute;
+	background-color:#efefef;
+	background-repeat:repeat-y;
+	border-right:solid 1px #b2b2b2;
+	border-left:solid 1px #b2b2b2;
+	border-top:solid 1px #b2b2b2;
+	display:none;
+	height:auto;
+	width:250px;
+	padding:0;
+	margin:-18px 0px 0px 0px;
+	}
+
+#menu-container li ul li ul li{
+	float:none;
+	margin:0;
+	padding:0;
+	width:250px;
+	border-bottom:solid 1px #b2b2b2;
+	display:block;
+	height:auto;
+	margin:0;
+	padding:0;
+	}
+	
+#menu-container li ul li ul li a{
+	text-decoration:none;
+	font-size:11px;
+	color:#045f83;
+	font-weight:bold;
+	/*text-transform:uppercase;*/
+	height:auto;
+	padding:5px 8px;
+	/*border-bottom:solid 1px #ccc;*/
+	border:none;
+	}
+	
+#menu-container li ul li ul li a:hover{
+	color:#76ad21;
+	background-color:#fff;
+	border:none;
+	}
+	
+#menu-container ul li ul li:hover ul, #menu-container ul li ul li.mainHover ul{
+	display:block;
+	left:185px;
+	}

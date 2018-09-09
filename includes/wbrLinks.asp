@@ -1,0 +1,3 @@
+<div id="pen2"><img src="/images/pen.png" alt="Woodland Beach Resort. (WRB)" width="349" height="172" border="0" /></div>
+<div id="twitter2"><a href="http://www.flickr.com/photos/46656001@N07/" target="_blank"><img src="/images/flickr.png" alt="Flickr" width="80" height="74" border="0" /></a></div>
+<div id="facebook2"><a href="http://www.facebook.com/search/?q=woodland+beach+resort&init=quick#/pages/Deerwood-MN/Woodland-Beach-Resort/181386119603?v=wall&ref=search" target="_blank"><img src="/images/facebook.png" alt="Facebook" width="80" height="74" border="0" /></a></div>

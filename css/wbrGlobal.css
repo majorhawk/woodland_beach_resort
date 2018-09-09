@@ -1,0 +1,86 @@
+/* Woodlannd Beach Resort CSS Document */
+body{
+	margin:0;
+	padding:0;
+	background-image:url(../images/wood.jpg);
+	font-family:Tahoma,arial;
+	font-size:12px;
+	}
+	
+#mainContainer{
+	width:1154px;
+	margin:0 auto;
+	}
+	
+#containerCenter{
+	width:1154px;
+	position:absolute;
+	z-index:0;
+	}
+	
+#mainBody{
+	position:absolute;
+	z-index:0;
+	left:86px;
+	background-image:url(../images/paper.jpg);
+	background-repeat:repeat-y;
+	width:982px;
+	min-height:820px;
+	}
+	
+#bodyArea{
+	width:636px;
+	color:#333333;
+	margin:0px 0px 0px 300px;
+	}
+	
+#logo{
+	position:absolute;
+	width:410px;
+	height:291px;
+	z-index:60;
+	}
+	
+#forSale{
+	position:absolute;
+	width:161px;
+	height:115px;
+	z-index:59;
+	left:915px;
+	top:10px;
+	}
+	
+#maps{
+	position:absolute;
+	width:295px;
+	height:367px;
+	z-index:5;
+	top:210px;
+	left:60px;
+	}
+	
+#albmPhoto{
+	position:absolute;
+	width:258px;
+	height:293px;
+	z-index:5;
+	top:563px;
+	left:86px;
+	}
+	
+#shadowLeft{
+	position:absolute;
+	width:31px;
+	height:712px;
+	z-index:1;
+	left:55px;
+	}
+	
+#shadowRight{
+	position:absolute;
+	width:31px;
+	height:712px;
+	z-index:2;
+	left:1068px;
+
+	}
