@@ -57,7 +57,7 @@ objRS.Open SQLString, objConn, AdOpenKeySet
 <% If  request.QueryString("ID") = "photo" Then %>
 
 
-<iframe src="http://www.flickr.com/photos/46656001@N07/albums/72157623230132270/player/" width="640" height="480" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/46656001@N07/albums/72157623230132270/player/" width="640" height="480" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 <% End If %>

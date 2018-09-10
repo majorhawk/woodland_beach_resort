@@ -21,7 +21,7 @@ body {
 </head>
 
 <body>
-<iframe src="http://www.flickr.com/photos/46656001@N07/albums/<%=FID%>/player/" width="599" height="470" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/46656001@N07/albums/<%=FID%>/player/" width="599" height="470" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </body>
 </html>
 
