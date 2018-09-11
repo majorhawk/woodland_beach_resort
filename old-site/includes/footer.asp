@@ -1,7 +1,7 @@
 					</td>
 				</tr>
 				<tr>
-					<td valign="middle" height="28" background="images/bottomLines.gif" class="cc" align="center">Copyright © 2002 - <%= year(now())%> Woodland Beach Resort - Bay Lake, MN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.brainerd.com" target="_blank">www.brainerd.com</a></td>
+					<td valign="middle" height="28" background="images/bottomLines.gif" class="cc" align="center">Copyright ï¿½ 2002 - <%= year(now())%> Woodland Beach Resort - Bay Lake, MN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.brainerd.com" target="_blank">www.brainerd.com</a></td>
 				</tr>
 			</table>
 		</td>
@@ -12,7 +12,7 @@
 	</tr>
 </table>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-1004322-1";

@@ -166,7 +166,7 @@ key = createkeystring(1)
 <!-- BOTTOM CALLOUT BOXES --><!-- BOTTOM CALLOUT BOXES --><!-- BOTTOM CALLOUT BOXES -->
 						<table cellpadding="0" cellspacing="0" border="0" width="750">
 							<tr>
-								<td height="105" width="249" style="border-right: 1px solid #6F0000;" class="homeText"><a href="about.asp?PageID=1010"><img src="images/home01.jpg" alt="Updates and Additions" width="142" height="103" border="0" align="left"><img src="images/updates_title.gif" alt="Updates and Additions" border="0" style="margin:19px 0 5px 0;" title="Updates and Additions"><br>See What We’ve Added & Where We're Going</a></td>
+								<td height="105" width="249" style="border-right: 1px solid #6F0000;" class="homeText"><a href="about.asp?PageID=1010"><img src="images/home01.jpg" alt="Updates and Additions" width="142" height="103" border="0" align="left"><img src="images/updates_title.gif" alt="Updates and Additions" border="0" style="margin:19px 0 5px 0;" title="Updates and Additions"><br>See What Weï¿½ve Added & Where We're Going</a></td>
 								<td height="105" width="249" style="border-right: 1px solid #6F0000;" class="homeText"><a href="cabins.asp?PageID=2000"><img src="images/home02.jpg" alt="Experience a Family Tradition" width="142" height="103" border="0" align="left"><img src="images/family_title.gif" alt="Experience a Family Tradition" border="0" style="margin:19px 0 5px 0;" title="Experience a Family Tradition"><br>Earlier Days Have Been Blended With Today</a></td>
 								<td width="250" class="homeText"><a href="about.asp?PageID=1020"><img src="images/<%=smPhoto %>.jpg" alt="Memories of Yeasterday" width="142" height="103" border="0" align="left"><img src="images/yesterday_title.gif" alt="Memories of Yeasterday" border="0" style="margin:19px 0 5px 0;" title="Memories of Yeasterday"><br>Images of our Friends & Family</a></td>
 							</tr>
@@ -177,7 +177,7 @@ key = createkeystring(1)
 					<td valign="top" height="17" bgcolor="#FFFFFF"><img src="images/clear.gif" width="568" height="17"></td>
 				</tr>
 				<tr>
-					<td valign="middle" height="28" background="images/bottomLines.gif" class="cc" align="center">Copyright © 2002 - <%= year(now())%> Woodland Beach Resort - Bay Lake, MN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.brainerd.com" target="_blank">www.brainerd.com</a></td>
+					<td valign="middle" height="28" background="images/bottomLines.gif" class="cc" align="center">Copyright ï¿½ 2002 - <%= year(now())%> Woodland Beach Resort - Bay Lake, MN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.brainerd.com" target="_blank">www.brainerd.com</a></td>
 				</tr>
 			</table>
 		</td>
@@ -190,7 +190,7 @@ key = createkeystring(1)
 
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-1004322-1";
