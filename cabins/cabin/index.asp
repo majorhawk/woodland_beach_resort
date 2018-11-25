@@ -89,7 +89,7 @@ objRS6.Open SQLString6, objConn, AdOpenKeySet
 		<% End IF %>
 		</td>
 		<td width="231" valign="top" width="331">
-		<img src="/images/<%= objRS("MainPhoto") %>-lg.jpg" width="331" height="267" border="0" alt="<%= objRS("CabinNme") %> : Est.<%= objRS("EST") %> on Bay Lake, MN"><br><a href="photos.asp?FID=<%= objRS("FlickrID") %>&CID=<%= objRS("CabinNum") %>" rel="lyteframe" title="More Photos From <%= objRS("CabinNme") %> : Est.<%= objRS("EST") %>" rev="width: 609px; height: 480px; scrolling: no;"><img src="/images/btn-view-photos.jpg" width="119" height="17" border="0" alt="View More Photos" align="right" style="padding-right:25px; "/></a>
+		<img src="/images/<%= objRS("MainPhoto") %>-lg.jpg" width="331" height="267" border="0" alt="<%= objRS("CabinNme") %> : Est.<%= objRS("EST") %> on Bay Lake, MN"><br><a href="photos.html?FID=<%= objRS("FlickrID") %>&CID=<%= objRS("CabinNum") %>" rel="lyteframe" title="More Photos From <%= objRS("CabinNme") %> : Est.<%= objRS("EST") %>" rev="width: 609px; height: 480px; scrolling: no;"><img src="/images/btn-view-photos.jpg" width="119" height="17" border="0" alt="View More Photos" align="right" style="padding-right:25px; "/></a>
 		</td> 
 	</tr>
 </table>
